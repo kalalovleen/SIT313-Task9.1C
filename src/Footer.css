@@ -1,0 +1,38 @@
+.footer-div {
+    background-color: #FFD1DC; /* Pastel pink background */
+    padding: 15px; /* Increased padding for a softer look */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a more elevated look */
+}
+
+.footer-div a {
+    color: #C884A6; /* Soft muted pink for links */
+    text-decoration: none;
+    font-weight: 500; /* Slightly bold font for better readability against pastel background */
+    transition: color 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.footer-div a:hover {
+    color: #914D6B; /* Darker pink color on hover for better interactivity */
+}
+
+.social-image {
+    width: 50px;
+    padding: 5px;
+    border-radius: 25px; /* Increased the border-radius to make images more circular */
+    transition: transform 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.social-image:hover {
+    transform: scale(1.1); /* Slight zoom effect on hover for better interactivity */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow on hover */
+}
+
+.centered-column {
+    max-width: 500px;
+    margin: auto;
+    background-color: #FFF0F5; /* Light pink background */
+    padding: 20px; /* Added padding for better structure */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a more elevated look */
+}

@@ -1,0 +1,23 @@
+.row {
+    display: flex;
+    background-color: #FFD1DC; /* Pastel pink background */
+    border-radius: 10px;       /* Rounded corners for the row */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    padding: 10px;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+    border: 1px solid #C884A6; /* Soft border color */
+    border-radius: 10px;      /* Rounded corners for columns */
+    margin: 5px;              /* Spacing between columns */
+    background-color: #FFF0F5; /* Light pink background for each column */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.card-img {
+    width: 40%;
+    border-radius: 10px;      /* Rounded corners for images */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for image depth */
+}

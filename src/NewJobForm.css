@@ -1,0 +1,40 @@
+.form-div {
+    text-align: left;
+    margin: 20px;
+    border: 1px solid #FFD1DC; /* Soft pink border */
+    border-radius: 8px; /* Rounded edges */
+    background-color: #FFF0F5; /* Lavender blush background */
+    padding: 10px; /* Additional padding for aesthetics */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* A subtle shadow for depth */
+}
+
+.form-title {
+    background-color: #FFB6C1; /* Light pink for the title background */
+    padding: 10px; /* A bit more padding for emphasis */
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif; /* An elegant font */
+    border-radius: 6px; /* Rounded edges for the title */
+    margin-bottom: 10px; /* A bit of margin for separation */
+}
+
+.form-button {
+    margin: 20px;
+    float: right;
+    width: 200px;
+    background-color: #FF69B4; /* Strong pink color for the button */
+    color: white; /* White text on the button */
+    border: none; /* No border to keep it clean */
+    border-radius: 6px; /* Rounded button */
+    font-family: 'Poppins', sans-serif; /* Keeping the font consistent */
+    cursor: pointer; /* Cursor style on hover */
+    transition: background-color 0.3s; /* Transition for hover effect */
+}
+
+.form-button:hover {
+    background-color: #FF1493; /* A different pink shade for hover */
+}
+
+.form-div .row {
+    width: 98%;
+    margin: 1%; /* Giving a small margin for better alignment */
+}

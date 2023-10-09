@@ -1,0 +1,25 @@
+label {
+    font-weight: bold;
+    color: #8B3E45; /* A warm pinkish color for label text */
+    font-family: 'Poppins', sans-serif; /* A versatile font that can look girly */
+}
+
+h2 {
+    color: #FFB6C1; /* Light pink color for headings */
+    font-family: 'Poppins', sans-serif; /* Using the same font for consistency */
+}
+
+.sign-up-link {
+    text-align: right;
+    width: 100%;
+    font-weight: bold;
+    font-size: large;
+    color: #FF69B4; /* A bolder pink for emphasis */
+    font-family: 'Poppins', sans-serif; 
+    text-decoration: underline; /* Underline for added emphasis */
+}
+
+div {
+    text-align: center;
+    color: #4B2E39; /* A complementary plum color for general text within divs */
+}
